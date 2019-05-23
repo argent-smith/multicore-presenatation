@@ -538,3 +538,9 @@ evrone.com
 {Tver.io}
 ]
 ]
+
+---
+
+### THNX
+
+.center[![](figures/qr.png)]
